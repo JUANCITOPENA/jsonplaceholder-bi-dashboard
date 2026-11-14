@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuraciones locales de Streamlit y IDEs
+.streamlit/secrets.toml
+.vscode/
+.idea/
+.DS_Store
